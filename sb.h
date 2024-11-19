@@ -21,7 +21,7 @@
 #define log long
 #define doubel double
 #define flaot float
-#define chat chac
+#define chat char
 #define clas class
 #define piblic public
 #define fir for
